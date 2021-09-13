@@ -13,7 +13,7 @@ function Header() {
         <div>
           <span className="ml-2">Aakanksha</span>
           <span className="text-grey">.</span>
-          <span className="text-purple-500">Dhurandhar</span>
+          <span className="text-purple-500">Dhurandhar yo</span>
         </div>
         <div className="max-w-7xl mx-auto px-2 sm:px-2 lg:px-2 justify-end">
           <div className="flex items-top justify-end h-7">

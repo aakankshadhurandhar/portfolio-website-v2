@@ -11,9 +11,9 @@ function Header() {
       <nav className="flex">
         <Toggle />
         <div>
-          <span className="ml-2">Aakanksha</span>
+          <span className="ml-2 text-base">Aakanksha</span>
           <span className="text-grey">.</span>
-          <span className="text-purple-500">Dhurandhar yo</span>
+          <span className="text-purple-500 text-base">Dhurandhar</span>
         </div>
         <div className="max-w-7xl mx-auto px-2 sm:px-2 lg:px-2 justify-end">
           <div className="flex items-top justify-end h-7">
@@ -22,28 +22,28 @@ function Header() {
                 <div className="ml-10 flex items-baseline space-x-4 ">
                   <a
                     href="#"
-                    className="  hover:text-purple-500 px-3 py-2 rounded-md text-sm "
+                    className="  hover:text-purple-500 px-3 py-2 rounded-md text-base "
                   >
                     About
                   </a>
 
                   <a
                     href="#"
-                    className="  hover:text-purple-500 px-3 py-2 rounded-md text-sm "
+                    className="  hover:text-purple-500 px-3 py-2 rounded-md text-base "
                   >
                     Projects
                   </a>
 
                   <a
                     href="#"
-                    className="  hover:text-purple-500 px-3 py-2 rounded-md text-sm "
+                    className="  hover:text-purple-500 px-3 py-2 rounded-md text-base "
                   >
                     Blogs
                   </a>
 
                   <a
                     href="#"
-                    className="  hover:text-purple-500 px-3 py-2 rounded-md text-sm "
+                    className="  hover:text-purple-500 px-3 py-2 rounded-md text-base "
                   >
                     Contact
                   </a>
